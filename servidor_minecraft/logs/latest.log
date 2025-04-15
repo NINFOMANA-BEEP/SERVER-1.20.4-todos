@@ -259,3 +259,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15Apr2025 20:47:30.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made darkblader69 a server operator
 [15Apr2025 20:47:38.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [darkblader69: Set the time to 1000]
 [15Apr2025 20:50:38.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ich1goM1rukuu: Set own game mode to Creative Mode]
+[15Apr2025 21:01:51.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ich1goM1rukuu lost connection: Disconnected
+[15Apr2025 21:01:51.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ich1goM1rukuu left the game
+[15Apr2025 21:05:59.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
+[15Apr2025 21:05:59.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
